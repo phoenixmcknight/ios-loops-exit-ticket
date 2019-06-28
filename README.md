@@ -26,27 +26,27 @@ for number in 4..<8{
 
 print(myNum)
 ```
-
+23 √
 ***
 ## Question 2
 
 Which of the following loops will print out all the numbers between 1 and 100, inclusive?  Select all that apply.
 
-a)
+a) 
 ```swift
 for i in 1..<100 {
     print(i)
 }
 ```
 
-B)
+B) √
 ```swift
 for j in 1...100 {
     print(j)
 }
 ```
 
-C)
+C) √
 ```swift
 for k in 1..<1000 where k < 101 {
     print(k)
@@ -72,13 +72,13 @@ for _ in 1...10{
     }
 }
 ```
-
+100 √
 ***
 ## Question 4
 
 Which of the loops below will run forever? Select all that apply.
 
-a)
+a) √
 ```swift
 var q = 0
 
@@ -108,7 +108,7 @@ while 3 != 3 {
 }
 ```
 
-d)
+d) √
 ```swift
 var t = 0
 
